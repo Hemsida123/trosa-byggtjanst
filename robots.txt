@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trosa-byggtjanst.carlzzon121.chatgpt.site/sitemap.xml
